@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #fcd2d1;
+  background-color: #082032;
 }
 
 h1 {
@@ -18,12 +18,12 @@ h1 {
   font-family: "Bungee Inline", cursive;
   text-shadow: 5px 0 #b61919;
   font-size: 8rem;
-  color: #ff6b6b;
+  color: #ff4c29;
 }
 
 p {
   font-size: 2rem;
-  color: #ff6b6b;
+  color: #ff4c29;
   font-family: "Aldrich", sans-serif;
 }
 
